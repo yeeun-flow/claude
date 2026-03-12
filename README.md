@@ -1,0 +1,2 @@
+# claude
+custom claude setting
